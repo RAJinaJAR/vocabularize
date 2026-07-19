@@ -1,0 +1,6 @@
+{
+  "name": "Vocabularize",
+  "description": "A static, offline-capable GRE vocabulary study app with meanings, synonyms, examples, and mnemonics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
