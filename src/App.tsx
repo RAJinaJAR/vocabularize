@@ -28,6 +28,11 @@ function Layout({ children }: { children: React.ReactNode }) {
       <main className="flex-1 w-full max-w-5xl mx-auto p-4 sm:p-6 lg:p-8">
         {children}
       </main>
+      <footer className="py-6 text-center text-sm text-slate-500">
+        <a href="https://www.linkedin.com/in/raj-dhapse-0b37731a0/" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-600 transition-colors">
+          Made by Raj with love &lt;3
+        </a>
+      </footer>
     </div>
   );
 }
